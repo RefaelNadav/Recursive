@@ -19,3 +19,5 @@ int[] arr1 = { 1, 2, 3, 45, -2, 5 };
 //Console.WriteLine(Recursion.FindSum(arr1, 6));
 
 Console.WriteLine(Recursion.Divide(8, 2));
+
+Console.WriteLine(Recursion.isPalindrome("qwertrewq"));
